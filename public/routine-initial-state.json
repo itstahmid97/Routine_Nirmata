@@ -1,0 +1,8611 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "code": "P",
+      "name": "অধ্যক্ষ"
+    },
+    {
+      "id": 2,
+      "code": "AHT",
+      "name": "মোঃ আসাদুজ্জামান"
+    },
+    {
+      "id": 3,
+      "code": "HZ",
+      "name": "মোঃ হেলালুজ্জামান"
+    },
+    {
+      "id": 4,
+      "code": "GM",
+      "name": "মোঃ গোলাম মোস্তফা"
+    },
+    {
+      "id": 5,
+      "code": "KZ",
+      "name": "এ এইচ এম কামরুজ্জামান"
+    },
+    {
+      "id": 6,
+      "code": "RKG",
+      "name": "রতন কুমার ঘোষ"
+    },
+    {
+      "id": 7,
+      "code": "IH",
+      "name": "মোঃ ইকবাল হোসেন"
+    },
+    {
+      "id": 8,
+      "code": "AS",
+      "name": "মোঃ আব্দুস ছালাম"
+    },
+    {
+      "id": 9,
+      "code": "BSU",
+      "name": "বনশ্রী ঊর্মি"
+    },
+    {
+      "id": 10,
+      "code": "SJ",
+      "name": "মোঃ সাজু মিয়া"
+    },
+    {
+      "id": 11,
+      "code": "ATE",
+      "name": "আবু তালহা মোঃ এরশাদুজ্জামান"
+    },
+    {
+      "id": 12,
+      "code": "NI",
+      "name": "মোঃ নজরুল ইসলাম"
+    },
+    {
+      "id": 13,
+      "code": "MAR",
+      "name": "মোছাঃ মাকফা আক্তার"
+    },
+    {
+      "id": 14,
+      "code": "ICD",
+      "name": "ইন্দ্রজিৎ চন্দ্র দাস"
+    },
+    {
+      "id": 15,
+      "code": "BKD",
+      "name": "বিদ্যুৎ কুমার দত্ত"
+    },
+    {
+      "id": 16,
+      "code": "SRK",
+      "name": "স্বাতী রানী কুন্ডু"
+    },
+    {
+      "id": 17,
+      "code": "SI",
+      "name": "মোঃ সিরাজুল ইসলাম"
+    },
+    {
+      "id": 18,
+      "code": "MH",
+      "name": "মোঃ মাহবুব হোসেন"
+    },
+    {
+      "id": 19,
+      "code": "HA",
+      "name": "মোঃ হাসিম আলী"
+    },
+    {
+      "id": 20,
+      "code": "NY",
+      "name": "মোছাঃ নিলুফার ইয়াসমিন"
+    },
+    {
+      "id": 21,
+      "code": "TA1",
+      "name": "মোছাঃ তানজিলা আক্তার"
+    },
+    {
+      "id": 22,
+      "code": "TMM",
+      "name": "এটিএম মোশেঁদুল হাসান"
+    },
+    {
+      "id": 23,
+      "code": "SAM",
+      "name": "মোঃ সামছুল আলম"
+    },
+    {
+      "id": 24,
+      "code": "YA",
+      "name": "ইয়ামিন আখতার জাহান"
+    },
+    {
+      "id": 25,
+      "code": "SPC",
+      "name": "সম্পা পারভীন চিত্র"
+    },
+    {
+      "id": 26,
+      "code": "MSR",
+      "name": "মোঃ সাইদুর রহমান"
+    },
+    {
+      "id": 27,
+      "code": "RR",
+      "name": "রেজওয়ানা রশদী"
+    },
+    {
+      "id": 28,
+      "code": "SIS",
+      "name": "মোঃ শফিকুল ইসলাম শেখ"
+    },
+    {
+      "id": 29,
+      "code": "RB",
+      "name": "মোঃ রিপন বাবু"
+    },
+    {
+      "id": 30,
+      "code": "SNU",
+      "name": "মোঃ ছানাউল্লাহ"
+    },
+    {
+      "id": 31,
+      "code": "AMF",
+      "name": "আবু ওবায়দা মোঃ ফয়সাল"
+    },
+    {
+      "id": 32,
+      "code": "PKD",
+      "name": "পরিতোষ কুমার দেবনাথ"
+    },
+    {
+      "id": 33,
+      "code": "FA",
+      "name": "মোছাঃ ফেরদৌসী আক্তার"
+    },
+    {
+      "id": 34,
+      "code": "DCM",
+      "name": "ধনপতি চন্দ্র মন্ডল"
+    },
+    {
+      "id": 35,
+      "code": "ANR",
+      "name": "মোঃ আনিসুর রহমান"
+    },
+    {
+      "id": 36,
+      "code": "SHR",
+      "name": "মোঃ সোহানুর রহমান"
+    },
+    {
+      "id": 37,
+      "code": "PA",
+      "name": "মোছাঃ পারভীন সুলতানা"
+    },
+    {
+      "id": 38,
+      "code": "EP",
+      "name": "মোছাঃ ইলোরা পারভীন"
+    },
+    {
+      "id": 39,
+      "code": "SM",
+      "name": "সৌমিক মাহফুজ"
+    },
+    {
+      "id": 40,
+      "code": "AH",
+      "name": "মোঃ আব্দুল হান্নান"
+    },
+    {
+      "id": 41,
+      "code": "RFA",
+      "name": "মোঃ রফিকুল আজিজ"
+    },
+    {
+      "id": 42,
+      "code": "RKN",
+      "name": "মোছাঃ রীনা খাতুন"
+    },
+    {
+      "id": 43,
+      "code": "JA",
+      "name": "মোঃ জাহাঙ্গীর আলম"
+    },
+    {
+      "id": 44,
+      "code": "MP",
+      "name": "মঞ্জিলা পারভীন"
+    },
+    {
+      "id": 45,
+      "code": "UTT",
+      "name": "উম্মে তানিয়া তোফা"
+    },
+    {
+      "id": 46,
+      "code": "EK",
+      "name": "মোঃ ইমরান খান"
+    },
+    {
+      "id": 47,
+      "code": "RH",
+      "name": "মোঃ রাজিউল হক"
+    },
+    {
+      "id": 48,
+      "code": "SZ",
+      "name": "মোঃ শামসুজ্জামান"
+    },
+    {
+      "id": 49,
+      "code": "SS",
+      "name": "মোছাঃ শারমিন সুলতানা"
+    },
+    {
+      "id": 50,
+      "code": "GCG",
+      "name": "গৌতম চন্দ্র গোস্বামী"
+    },
+    {
+      "id": 51,
+      "code": "NUR",
+      "name": "মোঃ নুরইসলাম"
+    },
+    {
+      "id": 52,
+      "code": "FF",
+      "name": "সেঁখ ফারজানা ফেরদৌসী"
+    },
+    {
+      "id": 53,
+      "code": "MHR",
+      "name": "মোঃ হারুনুর রশীদ"
+    },
+    {
+      "id": 54,
+      "code": "BS",
+      "name": "মোঃ বিদ্যুৎ সরকার"
+    },
+    {
+      "id": 55,
+      "code": "OB",
+      "name": "মোঃ ওবাইদুর রহমান"
+    },
+    {
+      "id": 56,
+      "code": "AHD",
+      "name": "মোঃ আওলাদ হক দেওয়ান"
+    },
+    {
+      "id": 57,
+      "code": "ANH",
+      "name": "এ এম আনোয়ার হোসেন"
+    },
+    {
+      "id": 58,
+      "code": "RK",
+      "name": "রায়হান কবিরাজ"
+    },
+    {
+      "id": 59,
+      "code": "MAH",
+      "name": "মোঃ আদল হোসেন"
+    },
+    {
+      "id": 60,
+      "code": "SR",
+      "name": "মোঃ সেলিম রেজা"
+    },
+    {
+      "id": 61,
+      "code": "SKB",
+      "name": "মোঃ সাকিব হোসাইন"
+    },
+    {
+      "id": 62,
+      "code": "PS",
+      "name": "পলাশ সরকার"
+    },
+    {
+      "id": 63,
+      "code": "TI",
+      "name": "মোঃ তরিকুল ইসলাম"
+    },
+    {
+      "id": 64,
+      "code": "SAH",
+      "name": "মোঃ শাকিল আহমেদ"
+    },
+    {
+      "id": 67,
+      "code": "HACK",
+      "name": "Fake"
+    }
+  ],
+  "subjects": [
+    {
+      "name": "বাংলা",
+      "teachers": [
+        "NY",
+        "MAR",
+        "SRK",
+        "RR",
+        "FA",
+        "RKN",
+        "MAH"
+      ]
+    },
+    {
+      "name": "ইংরেজি",
+      "teachers": [
+        "AS",
+        "TA1",
+        "UTT",
+        "EK",
+        "SHR",
+        "MP",
+        "ANH"
+      ]
+    },
+    {
+      "name": "গণিত",
+      "teachers": [
+        "IH",
+        "AHT",
+        "PKD",
+        "DCM",
+        "MHR",
+        "AHD"
+      ]
+    },
+    {
+      "name": "উচ্চতর গণিত",
+      "teachers": [
+        "IH",
+        "ANR"
+      ]
+    },
+    {
+      "name": "সাধারণ গণিত",
+      "teachers": [
+        "AHT",
+        "PKD",
+        "DCM"
+      ]
+    },
+    {
+      "name": "বিজ্ঞান",
+      "teachers": [
+        "ATE",
+        "SIS",
+        "MSR",
+        "KZ",
+        "SR"
+      ]
+    },
+    {
+      "name": "পদার্থবিজ্ঞান",
+      "teachers": [
+        "SJ",
+        "RH",
+        "OB"
+      ]
+    },
+    {
+      "name": "রসায়ন",
+      "teachers": [
+        "ICD",
+        "FF",
+        "BS"
+      ]
+    },
+    {
+      "name": "জীববিজ্ঞান",
+      "teachers": [
+        "BSU",
+        "SZ"
+      ]
+    },
+    {
+      "name": "আইসিটি",
+      "teachers": [
+        "HZ",
+        "RB",
+        "SM",
+        "RK",
+        "GM"
+      ]
+    },
+    {
+      "name": "বাংলাদেশ ও বিশ্ব পরিচয়",
+      "teachers": [
+        "YA",
+        "AH",
+        "SS",
+        "SAH"
+      ]
+    },
+    {
+      "name": "ধর্ম",
+      "teachers": [
+        "HA",
+        "SI",
+        "MH",
+        "SAM",
+        "NUR",
+        "GCG",
+        "PS"
+      ]
+    },
+    {
+      "name": "চারু ও কারুকলা",
+      "teachers": [
+        "BKD",
+        "PA",
+        "SKB"
+      ]
+    },
+    {
+      "name": "শারীরিক শিক্ষা",
+      "teachers": [
+        "TMM",
+        "SNU",
+        "TI"
+      ]
+    },
+    {
+      "name": "ভূগোল",
+      "teachers": [
+        "ATE",
+        "YA"
+      ]
+    },
+    {
+      "name": "ইতিহাস",
+      "teachers": [
+        "YA",
+        "SS"
+      ]
+    },
+    {
+      "name": "ব্যবসায় উদ্যোগ",
+      "teachers": [
+        "NI",
+        "RFA",
+        "JA",
+        "EP"
+      ]
+    },
+    {
+      "name": "হিসাব বিজ্ঞান",
+      "teachers": [
+        "NI",
+        "JA",
+        "RFA"
+      ]
+    },
+    {
+      "name": "কৃষিশিক্ষা",
+      "teachers": [
+        "ATE",
+        "AMF"
+      ]
+    },
+    {
+      "name": "পৌরনীতি",
+      "teachers": [
+        "YA",
+        "SS"
+      ]
+    },
+    {
+      "name": "অর্থনীতি",
+      "teachers": [
+        "YA",
+        "NI"
+      ]
+    },
+    {
+      "name": "গার্হস্থ্য বিজ্ঞান",
+      "teachers": [
+        "EP",
+        "SPC"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "6-ক",
+      "cls": "6",
+      "sec": "ক",
+      "teacherCode": "PS",
+      "template": "A",
+      "updatedAt": "2026-11-06T09:13:45.115Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "AS"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "RFA"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "গণিত",
+          "teachers": [
+            "RR"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "ANH"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "YA"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "PS"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "SKB",
+            "RKG"
+          ],
+          "count": 2,
+          "religion": true
+        },
+        {
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "BKD"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TMM"
+          ],
+          "count": 2,
+          "religion": false
+        }
+      ]
+    },
+    {
+      "id": "6-খ",
+      "cls": "6",
+      "sec": "খ",
+      "teacherCode": "TI",
+      "template": "A",
+      "updatedAt": "2026-11-05T18:34:51.777Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SIS"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "AH"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "MH",
+            "SAM"
+          ],
+          "count": 2,
+          "religion": true
+        },
+        {
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "PA"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "SNU"
+          ],
+          "count": 2,
+          "religion": false
+        }
+      ]
+    },
+    {
+      "id": "6-গ",
+      "cls": "6",
+      "sec": "গ",
+      "teacherCode": "AHT",
+      "template": "A",
+      "updatedAt": "2026-11-05T18:41:11.001Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "MSR"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SS"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "SM"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "NUR",
+            "GCG"
+          ],
+          "count": 2,
+          "religion": true
+        },
+        {
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "SKB"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TI"
+          ],
+          "count": 2,
+          "religion": false
+        }
+      ]
+    },
+    {
+      "id": "6-ঘ",
+      "cls": "6",
+      "sec": "ঘ",
+      "teacherCode": "SAH",
+      "template": "A",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "KZ"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SAH"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "RK"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "PS",
+            "HA"
+          ],
+          "count": 2,
+          "religion": true
+        },
+        {
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "BKD"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TMM"
+          ],
+          "count": 2,
+          "religion": false
+        }
+      ]
+    },
+    {
+      "id": "7-ক",
+      "cls": "7",
+      "sec": "ক",
+      "teacherCode": "RKG",
+      "template": "A",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "গণিত",
+          "teachers": [
+            "MHR"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SR"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "YA"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "GM"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "SI",
+            "MH"
+          ],
+          "count": 2,
+          "religion": true
+        },
+        {
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "PA"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "SNU"
+          ],
+          "count": 2,
+          "religion": false
+        }
+      ]
+    },
+    {
+      "id": "7-খ",
+      "cls": "7",
+      "sec": "খ",
+      "teacherCode": "ANR",
+      "template": "A",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "গণিত",
+          "teachers": [
+            "AHD"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "ATE"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "AH"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "HZ"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "SAM",
+            "NUR"
+          ],
+          "count": 2,
+          "religion": true
+        },
+        {
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "SKB"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TI"
+          ],
+          "count": 2,
+          "religion": false
+        }
+      ]
+    },
+    {
+      "id": "7-গ",
+      "cls": "7",
+      "sec": "গ",
+      "teacherCode": "TA1",
+      "template": "A",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "MAH"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "গণিত",
+          "teachers": [
+            "IH"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SIS"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SS"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "GCG",
+            "PS"
+          ],
+          "count": 2,
+          "religion": true
+        },
+        {
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "BKD"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TMM"
+          ],
+          "count": 2,
+          "religion": false
+        }
+      ]
+    },
+    {
+      "id": "7-ঘ",
+      "cls": "7",
+      "sec": "ঘ",
+      "teacherCode": "DCM",
+      "template": "A",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "NY"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "MSR"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SAH"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "SM"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "HA",
+            "SI"
+          ],
+          "count": 2,
+          "religion": true
+        },
+        {
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "PA"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "SNU"
+          ],
+          "count": 2,
+          "religion": false
+        }
+      ]
+    },
+    {
+      "id": "8-ক",
+      "cls": "8",
+      "sec": "ক",
+      "teacherCode": "ATE",
+      "template": "A",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "MAR"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "TA1"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "KZ"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "YA"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "RK"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "MH",
+            "SAM"
+          ],
+          "count": 2,
+          "religion": true
+        },
+        {
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "SKB"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TI"
+          ],
+          "count": 2,
+          "religion": false
+        }
+      ]
+    },
+    {
+      "id": "8-খ",
+      "cls": "8",
+      "sec": "খ",
+      "teacherCode": "PKD",
+      "template": "A",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SR"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "AH"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "GM"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "NUR",
+            "GCG"
+          ],
+          "count": 2,
+          "religion": true
+        },
+        {
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "BKD"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TMM"
+          ],
+          "count": 2,
+          "religion": false
+        }
+      ]
+    },
+    {
+      "id": "8-গ",
+      "cls": "8",
+      "sec": "গ",
+      "teacherCode": "SR",
+      "template": "A",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "গণিত",
+          "teachers": [
+            "MHR"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "ATE"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SS"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "HZ"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "PS",
+            "HA"
+          ],
+          "count": 2,
+          "religion": true
+        },
+        {
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "PA"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "SNU"
+          ],
+          "count": 2,
+          "religion": false
+        }
+      ]
+    },
+    {
+      "id": "8-ঘ",
+      "cls": "8",
+      "sec": "ঘ",
+      "teacherCode": "SAM",
+      "template": "A",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "গণিত",
+          "teachers": [
+            "AHD"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SIS"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SAH"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "SI",
+            "MH"
+          ],
+          "count": 2,
+          "religion": true
+        },
+        {
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "SKB"
+          ],
+          "count": 2,
+          "religion": false
+        },
+        {
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TI"
+          ],
+          "count": 2,
+          "religion": false
+        }
+      ]
+    },
+    {
+      "id": "9-ক",
+      "cls": "9",
+      "sec": "ক",
+      "teacherCode": "YA",
+      "template": "B",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "SJ"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "রসায়ন",
+          "teachers": [
+            "ICD"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "BSU"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "SM"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "SAM",
+            "NUR"
+          ],
+          "count": 3,
+          "religion": true
+        }
+      ]
+    },
+    {
+      "id": "9-খ",
+      "cls": "9",
+      "sec": "খ",
+      "teacherCode": "BSU",
+      "template": "B",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "MAH"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "RH"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "রসায়ন",
+          "teachers": [
+            "FF"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "SZ"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "RK"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "GCG",
+            "PS"
+          ],
+          "count": 3,
+          "religion": true
+        }
+      ]
+    },
+    {
+      "id": "9-গ",
+      "cls": "9",
+      "sec": "গ",
+      "teacherCode": "KZ",
+      "template": "B",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "OB"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "রসায়ন",
+          "teachers": [
+            "BS"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "BSU"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "GM"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "HA",
+            "SI"
+          ],
+          "count": 3,
+          "religion": true
+        }
+      ]
+    },
+    {
+      "id": "9-ঘ",
+      "cls": "9",
+      "sec": "ঘ",
+      "teacherCode": "RR",
+      "template": "B",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "MAH"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "TA1"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "SJ"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "রসায়ন",
+          "teachers": [
+            "ICD"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "SZ"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "HZ"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "MH",
+            "SAM"
+          ],
+          "count": 3,
+          "religion": true
+        }
+      ]
+    },
+    {
+      "id": "9-মানবিক ও ব্যবসায়",
+      "cls": "9",
+      "sec": "মানবিক ও ব্যবসায়",
+      "teacherCode": "GM",
+      "template": "B",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "NY"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "NUR",
+            "GCG"
+          ],
+          "count": 3,
+          "religion": true
+        },
+        {
+          "subject": "ভূগোল",
+          "teachers": [
+            "YA"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "ইতিহাস",
+          "teachers": [
+            "SS"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "ব্যবসায় উদ্যোগ",
+          "teachers": [
+            "NI"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "হিসাব বিজ্ঞান",
+          "teachers": [
+            "JA"
+          ],
+          "count": 2,
+          "religion": false
+        }
+      ]
+    },
+    {
+      "id": "10-ক",
+      "cls": "10",
+      "sec": "ক",
+      "teacherCode": "AS",
+      "template": "B",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "MAR"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "IH"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "RH"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "রসায়ন",
+          "teachers": [
+            "FF"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "BSU"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "SM"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "PS",
+            "HA"
+          ],
+          "count": 3,
+          "religion": true
+        }
+      ]
+    },
+    {
+      "id": "10-খ",
+      "cls": "10",
+      "sec": "খ",
+      "teacherCode": "ICD",
+      "template": "B",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "OB"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "রসায়ন",
+          "teachers": [
+            "BS"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "SZ"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "RK"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "SI",
+            "MH"
+          ],
+          "count": 3,
+          "religion": true
+        }
+      ]
+    },
+    {
+      "id": "10-গ",
+      "cls": "10",
+      "sec": "গ",
+      "teacherCode": "SJ",
+      "template": "B",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "IH"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "SJ"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "রসায়ন",
+          "teachers": [
+            "ICD"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "BSU"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "GM"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "SAM",
+            "NUR"
+          ],
+          "count": 3,
+          "religion": true
+        }
+      ]
+    },
+    {
+      "id": "10-ঘ",
+      "cls": "10",
+      "sec": "ঘ",
+      "teacherCode": "HA",
+      "template": "B",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "RH"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "রসায়ন",
+          "teachers": [
+            "FF"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "SZ"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "HZ"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "GCG",
+            "PS"
+          ],
+          "count": 3,
+          "religion": true
+        }
+      ]
+    },
+    {
+      "id": "10-মানবিক ও ব্যবসায়",
+      "cls": "10",
+      "sec": "মানবিক ও ব্যবসায়",
+      "teacherCode": "RB",
+      "template": "B",
+      "updatedAt": "2026-10-30T14:48:20.376Z",
+      "subjects": [
+        {
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "count": 5,
+          "religion": false
+        },
+        {
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "count": 4,
+          "religion": false
+        },
+        {
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "ধর্ম",
+          "teachers": [
+            "HA",
+            "SI"
+          ],
+          "count": 3,
+          "religion": true
+        },
+        {
+          "subject": "ভূগোল",
+          "teachers": [
+            "ATE"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "ইতিহাস",
+          "teachers": [
+            "YA"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "ব্যবসায় উদ্যোগ",
+          "teachers": [
+            "RFA"
+          ],
+          "count": 3,
+          "religion": false
+        },
+        {
+          "subject": "হিসাব বিজ্ঞান",
+          "teachers": [
+            "JA"
+          ],
+          "count": 2,
+          "religion": false
+        }
+      ]
+    }
+  ],
+  "grid": {
+    "6-ক": [
+      [
+        {
+          "sectionId": "6-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "RFA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SKB",
+            "RKG"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "YA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "গণিত",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "6-ক",
+          "subject": "আইসিটি",
+          "teachers": [
+            "PS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "YA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "RFA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "গণিত",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TMM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "6-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "RFA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "গণিত",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "YA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "BKD"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "6-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SKB",
+            "RKG"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TMM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "RFA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "গণিত",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "6-ক",
+          "subject": "আইসিটি",
+          "teachers": [
+            "PS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "BKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "গণিত",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "RFA"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "6-খ": [
+      [
+        {
+          "sectionId": "6-খ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "SNU"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "AH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "6-খ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "PA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SIS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "AH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "6-খ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "PA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "MH",
+            "SAM"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SIS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "6-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "SNU"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SIS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "6-খ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "MH",
+            "SAM"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SIS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "AH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "6-গ": [
+      [
+        {
+          "sectionId": "6-গ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "MSR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TI"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "6-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "MSR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "SM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SS"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "6-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "SM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "NUR",
+            "GCG"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TI"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "6-গ",
+          "subject": "গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "MSR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "NUR",
+            "GCG"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "SKB"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "6-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "SKB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "MSR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-গ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SS"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "6-ঘ": [
+      [
+        {
+          "sectionId": "6-ঘ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "KZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TMM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "6-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "KZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TMM"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "6-ঘ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "PS",
+            "HA"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "BKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "6-ঘ",
+          "subject": "গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "PS",
+            "HA"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "KZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "6-ঘ",
+          "subject": "গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "KZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "BKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "6-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "7-ক": [
+      [
+        {
+          "sectionId": "7-ক",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "গণিত",
+          "teachers": [
+            "MHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "YA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "SNU"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "7-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "গণিত",
+          "teachers": [
+            "MHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "YA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SI",
+            "MH"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "7-ক",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "আইসিটি",
+          "teachers": [
+            "GM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "YA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "গণিত",
+          "teachers": [
+            "MHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "7-ক",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SI",
+            "MH"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "SNU"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "গণিত",
+          "teachers": [
+            "MHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "PA"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "7-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "গণিত",
+          "teachers": [
+            "MHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "আইসিটি",
+          "teachers": [
+            "GM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ক",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "PA"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "7-খ": [
+      [
+        {
+          "sectionId": "7-খ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "HZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "ATE"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "SKB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "7-খ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "HZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SAM",
+            "NUR"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "AH"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "7-খ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "ATE"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TI"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "SKB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHD"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "7-খ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "ATE"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "AH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SAM",
+            "NUR"
+          ],
+          "religion": true,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "7-খ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "AH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TI"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "ATE"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-খ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHD"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "7-গ": [
+      [
+        {
+          "sectionId": "7-গ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SIS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "গণিত",
+          "teachers": [
+            "IH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "GCG",
+            "PS"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "BKD"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "7-গ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SIS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "BKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "গণিত",
+          "teachers": [
+            "IH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "7-গ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SIS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TMM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "গণিত",
+          "teachers": [
+            "IH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "7-গ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "গণিত",
+          "teachers": [
+            "IH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TMM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "GCG",
+            "PS"
+          ],
+          "religion": true,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "7-গ",
+          "subject": "গণিত",
+          "teachers": [
+            "IH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SIS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAH"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "7-ঘ": [
+      [
+        {
+          "sectionId": "7-ঘ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "SM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "MSR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "NY"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "7-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "NY"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "SNU"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "PA"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "7-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "NY"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "HA",
+            "SI"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "MSR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "SNU"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "7-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "NY"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "MSR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "HA",
+            "SI"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "7-ঘ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "PA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "NY"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "MSR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "7-ঘ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "SM"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "8-ক": [
+      [
+        {
+          "sectionId": "8-ক",
+          "subject": "গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "KZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "ধর্ম",
+          "teachers": [
+            "MH",
+            "SAM"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "TA1"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "8-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "KZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "YA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "TA1"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TI"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "8-ক",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "TA1"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "SKB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "YA"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "8-ক",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "SKB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "YA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "TA1"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "KZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "8-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "TA1"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "ধর্ম",
+          "teachers": [
+            "MH",
+            "SAM"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TI"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ক",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "KZ"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "8-খ": [
+      [
+        {
+          "sectionId": "8-খ",
+          "subject": "গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "AH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TMM"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "8-খ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "GM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "BKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TMM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "8-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "NUR",
+            "GCG"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "AH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SR"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "8-খ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "GM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "AH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "8-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "NUR",
+            "GCG"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-খ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "BKD"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "8-গ": [
+      [
+        {
+          "sectionId": "8-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "PS",
+            "HA"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "PA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "ATE"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "গণিত",
+          "teachers": [
+            "MHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "8-গ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "ATE"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "HZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "গণিত",
+          "teachers": [
+            "MHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "PS",
+            "HA"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "8-গ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "SNU"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "গণিত",
+          "teachers": [
+            "MHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "ATE"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "8-গ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "ATE"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "HZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "গণিত",
+          "teachers": [
+            "MHR"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "8-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "SNU"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "PA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-গ",
+          "subject": "গণিত",
+          "teachers": [
+            "MHR"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "8-ঘ": [
+      [
+        {
+          "sectionId": "8-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TI"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SI",
+            "MH"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SIS"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "8-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "SKB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHD"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "8-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SIS"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "8-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SIS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SI",
+            "MH"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "বাংলাদেশ ও বিশ্ব পরিচয়",
+          "teachers": [
+            "SAH"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "8-ঘ",
+          "subject": "বিজ্ঞান",
+          "teachers": [
+            "SIS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "গণিত",
+          "teachers": [
+            "AHD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "শারীরিক শিক্ষা",
+          "teachers": [
+            "TI"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "চারু ও কারুকলা",
+          "teachers": [
+            "SKB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "8-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "9-ক": [
+      [
+        {
+          "sectionId": "9-ক",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "রসায়ন",
+          "teachers": [
+            "ICD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "রসায়ন",
+          "teachers": [
+            "ICD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "BSU"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "SJ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "BSU"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "আইসিটি",
+          "teachers": [
+            "SM"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-ক",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "SJ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SAM",
+            "NUR"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "BSU"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-ক",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SAM",
+            "NUR"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "রসায়ন",
+          "teachers": [
+            "ICD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "আইসিটি",
+          "teachers": [
+            "SM"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-ক",
+          "subject": "আইসিটি",
+          "teachers": [
+            "SM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "SJ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ক",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SAM",
+            "NUR"
+          ],
+          "religion": true,
+          "version": 1
+        }
+      ]
+    ],
+    "9-খ": [
+      [
+        {
+          "sectionId": "9-খ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "GCG",
+            "PS"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "RH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-খ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "SZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "GCG",
+            "PS"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "FF"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "FF"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-খ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "SZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "RH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-খ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "GCG",
+            "PS"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "FF"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "RH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-খ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "SZ"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "9-গ": [
+      [
+        {
+          "sectionId": "9-গ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "OB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "HA",
+            "SI"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "GM"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "BS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "BSU"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "GM"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-গ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "BS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "GM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "HA",
+            "SI"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-গ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "BS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "OB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "BSU"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "OB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "HA",
+            "SI"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "9-গ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "BSU"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "9-ঘ": [
+      [
+        {
+          "sectionId": "9-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "TA1"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "SJ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "ICD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "SZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAH"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "TA1"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "MH",
+            "SAM"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "ICD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "SZ"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-ঘ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "MH",
+            "SAM"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "HZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "SJ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "TA1"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-ঘ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "HZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "SZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "SJ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "TA1"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-ঘ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "HZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "ICD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "MH",
+            "SAM"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "TA1"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "9-মানবিক ও ব্যবসায়": [
+      [
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ধর্ম",
+          "teachers": [
+            "NUR",
+            "GCG"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "বাংলা",
+          "teachers": [
+            "NY"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ব্যবসায় উদ্যোগ",
+          "teachers": [
+            "NI"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ধর্ম",
+          "teachers": [
+            "NUR",
+            "GCG"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "বাংলা",
+          "teachers": [
+            "NY"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "হিসাব বিজ্ঞান",
+          "teachers": [
+            "JA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ভূগোল",
+          "teachers": [
+            "YA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ব্যবসায় উদ্যোগ",
+          "teachers": [
+            "NI"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ভূগোল",
+          "teachers": [
+            "YA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ইতিহাস",
+          "teachers": [
+            "SS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ব্যবসায় উদ্যোগ",
+          "teachers": [
+            "NI"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ভূগোল",
+          "teachers": [
+            "YA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "বাংলা",
+          "teachers": [
+            "NY"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ইতিহাস",
+          "teachers": [
+            "SS"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ইতিহাস",
+          "teachers": [
+            "SS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "বাংলা",
+          "teachers": [
+            "NY"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "হিসাব বিজ্ঞান",
+          "teachers": [
+            "JA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ধর্ম",
+          "teachers": [
+            "NUR",
+            "GCG"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "UTT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "9-মানবিক ও ব্যবসায়",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "10-ক": [
+      [
+        {
+          "sectionId": "10-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "রসায়ন",
+          "teachers": [
+            "FF"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "BSU"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "আইসিটি",
+          "teachers": [
+            "SM"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-ক",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "ধর্ম",
+          "teachers": [
+            "PS",
+            "HA"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "আইসিটি",
+          "teachers": [
+            "SM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "RH"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-ক",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "IH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "RH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "আইসিটি",
+          "teachers": [
+            "SM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "ধর্ম",
+          "teachers": [
+            "PS",
+            "HA"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "BSU"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "বাংলা",
+          "teachers": [
+            "MAR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "IH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "রসায়ন",
+          "teachers": [
+            "FF"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-ক",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "BSU"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "EK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "IH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "ধর্ম",
+          "teachers": [
+            "PS",
+            "HA"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "রসায়ন",
+          "teachers": [
+            "FF"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ক",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "RH"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "10-খ": [
+      [
+        {
+          "sectionId": "10-খ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "SZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "BS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SI",
+            "MH"
+          ],
+          "religion": true,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-খ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "OB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SI",
+            "MH"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-খ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "OB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "BS"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SI",
+            "MH"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "OB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "SZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-খ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "SZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "বাংলা",
+          "teachers": [
+            "SRK"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "SHR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-খ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "BS"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "10-গ": [
+      [
+        {
+          "sectionId": "10-গ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SAM",
+            "NUR"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "SJ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "IH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "BSU"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-গ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "BSU"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SAM",
+            "NUR"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "ICD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "GM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-গ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "SJ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "BSU"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "IH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "ICD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "GM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "IH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "SJ"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-গ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "GM"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "MP"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "বাংলা",
+          "teachers": [
+            "RR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "ICD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "SAM",
+            "NUR"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "10-গ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "DCM"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "10-ঘ": [
+      [
+        {
+          "sectionId": "10-ঘ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "RH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "SZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "HZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-ঘ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "SZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "HZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "FF"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "জীববিজ্ঞান",
+          "teachers": [
+            "SZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "FF"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "GCG",
+            "PS"
+          ],
+          "religion": true,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-ঘ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "RH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "PKD"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "GCG",
+            "PS"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "রসায়ন",
+          "teachers": [
+            "FF"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-ঘ",
+          "subject": "পদার্থবিজ্ঞান",
+          "teachers": [
+            "RH"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "বাংলা",
+          "teachers": [
+            "FA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "আইসিটি",
+          "teachers": [
+            "HZ"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "উচ্চতর গণিত",
+          "teachers": [
+            "ANR"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "ধর্ম",
+          "teachers": [
+            "GCG",
+            "PS"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "10-ঘ",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "ANH"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ]
+    ],
+    "10-মানবিক ও ব্যবসায়": [
+      [
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ইতিহাস",
+          "teachers": [
+            "YA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ব্যবসায় উদ্যোগ",
+          "teachers": [
+            "RFA"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ভূগোল",
+          "teachers": [
+            "ATE"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ধর্ম",
+          "teachers": [
+            "HA",
+            "SI"
+          ],
+          "religion": true,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ব্যবসায় উদ্যোগ",
+          "teachers": [
+            "RFA"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ইতিহাস",
+          "teachers": [
+            "YA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "হিসাব বিজ্ঞান",
+          "teachers": [
+            "JA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ভূগোল",
+          "teachers": [
+            "ATE"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ব্যবসায় উদ্যোগ",
+          "teachers": [
+            "RFA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ভূগোল",
+          "teachers": [
+            "ATE"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "সাধারণ গণিত",
+          "teachers": [
+            "AHT"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ধর্ম",
+          "teachers": [
+            "HA",
+            "SI"
+          ],
+          "religion": true,
+          "version": 1
+        }
+      ],
+      [
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "আইসিটি",
+          "teachers": [
+            "RB"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "হিসাব বিজ্ঞান",
+          "teachers": [
+            "JA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ইতিহাস",
+          "teachers": [
+            "YA"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ইংরেজি",
+          "teachers": [
+            "AS"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "বাংলা",
+          "teachers": [
+            "RKN"
+          ],
+          "religion": false,
+          "version": 1
+        },
+        {
+          "sectionId": "10-মানবিক ও ব্যবসায়",
+          "subject": "ধর্ম",
+          "teachers": [
+            "HA",
+            "SI"
+          ],
+          "religion": true,
+          "version": 1
+        }
+      ]
+    ]
+  },
+  "generated": true,
+  "unplaced": 0,
+  "version": 1793959016404
+}

@@ -1,0 +1,396 @@
+<div class="app-loader" id="appLoader" role="status" aria-live="polite">
+  <div class="loader-mark">রু</div>
+  <div class="loader-spinner" aria-hidden="true"></div>
+  <h1>রুটিন নির্মাতা লোড হচ্ছে</h1>
+  <p>শিক্ষক ও শিক্ষার্থীদের সাপ্তাহিক সময়সূচি প্রস্তুত করা হচ্ছে…</p>
+</div>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand brand-home" href="/" aria-label="রুটিন নির্মাতার প্রথম পাতায় ফিরুন">
+      <div class="brand-mark">রু</div>
+      <div class="brand-txt">
+        <h1 data-i18n="brand_title">রুটিন নির্মাতা</h1>
+        <p data-i18n="brand_sub">পল্লী উন্নয়ন একাডেমী ল্যাবরেটরী স্কুল এন্ড কলেজ, বগুড়া</p>
+      </div>
+    </a>
+    <div class="top-actions">
+      <button class="btn small lang-toggle-btn" id="langToggleBtn" title="ভাষা পরিবর্তন / Switch Language">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:14px;height:14px"><circle cx="12" cy="12" r="10"/><path d="m4.93 4.93 4.24 4.24M14.83 9.17l4.24-4.24M14.83 14.83l4.24 4.24M9.17 14.83l-4.24 4.24"/></svg><b id="langLabel" style="font-size:12px">English</b>
+      </button>
+      <button class="btn small theme-toggle-btn" id="themeToggleBtn" title="ডার্ক/লাইট মোড / Toggle Theme">
+        <svg id="themeIconDark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:15px;height:15px"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+        <svg id="themeIconLight" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:15px;height:15px;display:none"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+      </button>
+      <div id="userBadge" class="user-badge">
+        <span id="userNameTxt">শিক্ষক</span>
+        <span id="userRoleTag" class="role-tag teacher">শিক্ষক</span>
+        <button class="btn small" id="authBtn">প্রোফাইল</button>
+      </div>
+      <button class="btn small primary" id="pdfBtn">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v8H6z"/></svg><span class="btn-txt" data-i18n="pdf_btn">PDF ডাউনলোড</span></button>
+      <details class="header-more" id="headerMore">
+        <summary class="btn small" aria-label="আরও কাজ">আরও <span aria-hidden="true">⌄</span></summary>
+        <div class="header-more-menu">
+          <button class="btn small admin-only" id="importBtn" title="রুটিন JSON ফাইল আনুন">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg><span class="btn-txt" data-i18n="import_btn">JSON আনুন</span>
+          </button>
+          <button class="btn small admin-only" id="exportBtn" title="রুটিন JSON ফাইল নামান">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-2M7 8l5-5 5 5M12 3v12"/></svg><span class="btn-txt" data-i18n="export_btn">JSON নামান</span>
+          </button>
+          <a class="btn small manual-link" href="/manual">ব্যবহার নির্দেশিকা</a>
+        </div>
+      </details>
+    </div>
+  </div>
+  <nav class="tabs" id="tabs">
+    <button data-tab="setup" class="admin-only"><span class="tnum" data-i18n="tnum_1">১</span><span data-i18n="tab_setup">শিক্ষক ও বিষয়</span></button>
+    <button data-tab="generate" class="admin-only"><span class="tnum" data-i18n="tnum_2">২</span><span data-i18n="tab_generate">রুটিন তৈরি</span></button>
+    <button data-tab="routine" class="active"><span class="tnum" data-i18n="tnum_3">৩</span><span data-i18n="tab_routine">রুটিন দেখুন</span></button>
+    <button data-tab="dashboard" class="admin-only"><span class="tnum" data-i18n="tnum_4">৪</span><span data-i18n="tab_dashboard">ভারসাম্য যাচাই</span></button>
+  </nav>
+</header>
+
+<main>
+  <section class="welcome-card" aria-labelledby="welcomeTitle">
+    <div class="welcome-copy">
+      <span class="welcome-kicker">RDALSC · BOGURA</span>
+      <h2 id="welcomeTitle">আপনার সাপ্তাহিক রুটিন, এক জায়গায়</h2>
+      <p>রুটিন দেখুন, শিক্ষক ও বিষয় সাজান, তৈরি রুটিনে পরিবর্তন করুন—সব ধাপ এখান থেকেই। প্রথমবার হলে নিচের ধাপগুলো অনুসরণ করুন।</p>
+      <div class="welcome-actions">
+        <button type="button" class="btn welcome-primary" data-go-tab="routine">রুটিন দেখুন <span aria-hidden="true">→</span></button>
+        <a class="btn welcome-secondary" href="/manual">কীভাবে ব্যবহার করবেন?</a>
+        <button type="button" class="welcome-login" id="welcomeLoginBtn">প্রশাসক মোড</button>
+      </div>
+    </div>
+    <div class="welcome-side">
+      <div class="welcome-mark" aria-hidden="true">রু</div>
+      <div class="welcome-stats" id="welcomeStats">
+        <div><strong>২২</strong><span>টি শাখা</span></div>
+        <div><strong>৫</strong><span>কর্মদিবস</span></div>
+        <div><strong>৩০</strong><span>ক্লাস / শাখা</span></div>
+      </div>
+      <div class="welcome-save" id="welcomeSaveStatus"><span class="welcome-save-dot"></span> শিক্ষক দেখবেন · প্রশাসক রুটিন সাজাবেন</div>
+    </div>
+  </section>
+  <div class="start-strip" aria-label="রুটিন ব্যবহারের ধাপ">
+    <span><b>১</b> শিক্ষক ও বিষয় যাচাই</span><i aria-hidden="true">›</i>
+    <span><b>২</b> রুটিন তৈরি</span><i aria-hidden="true">›</i>
+    <span><b>৩</b> ঘরে ক্লিক করে সম্পাদনা</span><i aria-hidden="true">›</i>
+    <span><b>৪</b> প্রিন্ট বা JSON শেয়ার</span>
+  </div>
+  <!-- ===================== SETUP ===================== -->
+  <section class="panel admin-only" id="panel-setup">
+    <div class="page-head">
+      <div class="eyebrow">ধাপ ১ — ইনপুট</div>
+      <h2>প্রতিটি শাখায় কে কোন বিষয় পড়ান</h2>
+      <p>বাঁ দিকে ২২টি শাখা আগে থেকেই বসানো আছে। যেকোনো শাখায় ক্লিক করে বিষয়ের নাম, শিক্ষক আর সপ্তাহে কয়টি ক্লাস — ঠিক করে দিন। প্রতিটি শাখায় মোট <b>৩০টি ক্লাস</b> (৫ দিন × ৬ ঘণ্টা) হলে সবার সমান পূর্ণ রুটিন হবে।</p>
+    </div>
+
+    <div class="banner warn">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 9v4M12 17h.01M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/></svg>
+      <div>শিক্ষকের নামগুলো আগের রুটিন অনুযায়ী আনুমানিকভাবে বসানো হয়েছে — <b>তৈরির আগে একবার মিলিয়ে নিন</b>। ভুল থাকলে ড্রপডাউন থেকে সহজেই বদলানো যাবে। শিক্ষক খালি (—) থাকলেও রুটিন তৈরি হবে, শুধু সেই ঘরে কোনো দ্বন্দ্ব ধরা পড়বে না।</div>
+    </div>
+
+    <section class="card bus-settings" aria-labelledby="busSettingsTitle">
+      <div class="bus-settings-head">
+        <div><span class="welcome-kicker">প্রিন্ট ও রুটিনে দেখা যাবে</span><h3 id="busSettingsTitle">বাসের সময়সূচি</h3><p>ক ও খ সময়সূচির বাস ছাড়ার ও পৌঁছানোর সময় লিখে সংরক্ষণ করুন।</p></div>
+        <span class="bus-icon" aria-hidden="true">🚌</span>
+      </div>
+      <div class="bus-time-grid">
+        <fieldset class="bus-time-group"><legend>ক সময়সূচি</legend>
+          <label>বাস আসে<input id="busAIn" type="text" inputmode="text" placeholder="সকাল ১০:৩০" /></label>
+          <label>বাস যায়<input id="busAOut" type="text" inputmode="text" placeholder="বিকাল ০৩:৫০" /></label>
+        </fieldset>
+        <fieldset class="bus-time-group"><legend>খ সময়সূচি</legend>
+          <label>বাস আসে<input id="busBIn" type="text" inputmode="text" placeholder="সকাল ১১:২০" /></label>
+          <label>বাস যায়<input id="busBOut" type="text" inputmode="text" placeholder="বিকাল ০৪:৩০" /></label>
+        </fieldset>
+      </div>
+      <div class="bus-settings-actions">
+        <button class="btn primary" id="saveBusTimesBtn" type="button">সময় সংরক্ষণ</button>
+        <button class="btn" id="uploadBusTimesBtn" type="button">ফাইল থেকে আনুন</button>
+        <button class="btn ghost" id="exportBusTimesBtn" type="button">বাসের সময় ডাউনলোড</button>
+        <input id="busTimesFileInput" type="file" accept=".json,.csv,application/json,text/csv" hidden />
+        <span id="busSaveHint" role="status">প্রিন্ট/PDF-এও সময় দেখাবে।</span>
+      </div>
+    </section>
+
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; flex-wrap:wrap; gap:8px;">
+      <h3 style="font-size:15px; margin:0; display:flex; align-items:center; gap:8px;">
+        <span data-i18n="sec_list_title">শাখা ও বিষয়সমূহ</span>
+        <span class="badge ok" style="font-size:12px;" data-i18n="sec_count_badge">২২টি শাখা</span>
+      </h3>
+      <button class="btn small" id="bulkDistributeBtn" type="button" style="display:inline-flex; align-items:center; gap:6px; background:var(--green-d); border-color:var(--green-d); color:#fff; font-weight:600; padding:6px 14px; border-radius:6px; cursor:pointer;" title="বিষয় ও যোগ্য শিক্ষক তালিকা থেকে সব শাখার বিষয়ে শিক্ষক বণ্টন করুন">
+        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2 3 14h9l-1 8 10-12h-9l1-8z"/></svg>
+        <span class="btn-txt" data-i18n="auto_distribute_btn">⚡ শিক্ষক বণ্টন করুন</span>
+      </button>
+    </div>
+    <div class="setup-grid">
+      <div class="card sec-list" id="secList"></div>
+      <div class="card card-pad" id="secDetail"></div>
+    </div>
+
+    <div style="margin-top:20px" class="card card-pad">
+      <h3 style="font-size:15px; margin-bottom:6px" data-i18n="p1_tlist_title">শিক্ষক তালিকা</h3>
+      <p style="font-size:12.5px; color:var(--muted); margin:0 0 12px" data-i18n="p1_tlist_desc">রুটিনে ব্যবহৃত সংক্ষিপ্ত কোড ও পূর্ণ নাম। নতুন শিক্ষক যোগ করা বা নাম ঠিক করা যাবে।</p>
+      <div id="teacherChips" style="display:flex; flex-wrap:wrap; gap:6px"></div>
+      <div class="add-row">
+        <button class="btn small" id="addTeacherBtn"><span data-i18n="add_teacher_btn">+ শিক্ষক যোগ করুন</span></button>
+      </div>
+    </div>
+
+    <div style="margin-top:20px" class="card card-pad">
+      <div style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:10px; margin-bottom:12px;">
+        <div>
+          <h3 style="font-size:15px; margin:0 0 4px" data-i18n="p1_slist_title">বিষয় ও যোগ্য শিক্ষক</h3>
+          <p style="font-size:12.5px; color:var(--muted); margin:0" data-i18n="p1_slist_desc">প্রতিটি বিষয়ে কোন কোন শিক্ষক পড়াতে পারেন তা নির্ধারণ করুন। সুষম বণ্টনের মাধ্যমে শিক্ষক সংকট দূর করুন।</p>
+        </div>
+        <button class="btn secondary" id="autoBalanceTeachersBtn" type="button" style="font-size:12.5px; display:inline-flex; align-items:center; gap:6px; border-color:var(--brand); color:var(--brand); font-weight:600; padding:6px 14px; cursor:pointer;">
+          <span data-i18n="auto_balance_btn">🪄 ৬০+ শিক্ষক দিয়ে সব বিষয়ে সুষম বণ্টন করুন</span>
+        </button>
+      </div>
+      <div id="subjectsManager"></div>
+      <div class="add-row">
+        <button class="btn small" id="addSubjectBtn"><span data-i18n="add_subject_btn">+ বিষয় যোগ করুন</span></button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== GENERATE ===================== -->
+  <section class="panel admin-only" id="panel-generate">
+    <div class="page-head">
+      <div class="eyebrow" data-i18n="p2_eyebrow">ধাপ ২ — স্বয়ংক্রিয় তৈরি</div>
+      <h2 data-i18n="p2_title">এক ক্লিকে দ্বন্দ্বমুক্ত রুটিন</h2>
+      <p data-i18n="p2_desc">প্রোগ্রাম নিজে থেকে সব শাখার ক্লাস এমনভাবে সাজাবে যেন একজন শিক্ষক একই সময়ে দুই শাখায় না পড়েন, একই বিষয় দিনে দুবার না আসে, আর প্রতিদিনের বোঝা সমান থাকে।</p>
+    </div>
+    <div class="gen-wrap">
+      <div class="card">
+        <div class="gen-stage" id="genStage">
+          <div class="gen-idle">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18M8 14h.01M12 14h.01M16 14h.01M8 18h.01M12 18h.01"/></svg>
+            <h3>রুটিন তৈরির জন্য প্রস্তুত</h3>
+            <p>নিচের বোতামে চাপ দিন। কয়েক সেকেন্ডে সম্পূর্ণ রুটিন তৈরি হবে।</p>
+            <button class="btn primary" id="genBtn" style="margin-top:18px; padding:11px 22px; font-size:15px">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2 3 14h9l-1 8 10-12h-9l1-8z"/></svg>রুটিন তৈরি করুন</button>
+          </div>
+        </div>
+      </div>
+      <div class="gen-side card card-pad">
+        <h3>
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 11l3 3L22 4M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>
+          তৈরির আগে যাচাই</h3>
+        <div id="feasList"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== ROUTINE ===================== -->
+  <section class="panel active" id="panel-routine">
+    <div class="page-head">
+      <div class="eyebrow teacher-only" style="display:none; color:var(--green-d); font-weight:700">পল্লী উন্নয়ন একাডেমী ল্যাবরেটরী স্কুল এন্ড কলেজ, বগুড়া</div>
+      <div class="eyebrow admin-only" data-i18n="p3_eyebrow">ধাপ ৩ — ফলাফল</div>
+      <h2 id="routineHeadTitle" data-i18n="p3_title">তৈরি রুটিন — দেখুন ও ঠিক করুন</h2>
+      <p id="routineSubHead" data-i18n="p3_desc">যেকোনো ঘরে ক্লিক করে বিষয় বা শিক্ষক বদলানো যায়। কোনো শিক্ষক দুই শাখায় একসাথে পড়ে গেলে ঘরটি লাল হয়ে যাবে।</p>
+    </div>
+    <div class="routine-toolbar no-print">
+      <div style="display:flex; align-items:center; gap:8px">
+        <label style="font-size:13px; font-weight:600; color:var(--ink-soft)" data-i18n="filter_lbl">দেখান:</label>
+        <select id="routineFilter">
+          <option value="all">সব শাখা</option>
+          <option value="6">৬ষ্ঠ শ্রেণি</option>
+          <option value="7">৭ম শ্রেণি</option>
+          <option value="8">৮ম শ্রেণি</option>
+          <option value="9">৯ম শ্রেণি</option>
+          <option value="10">১০ম শ্রেণি</option>
+        </select>
+      </div>
+      <div style="display:flex; align-items:center; gap:8px">
+        <label style="font-size:13px; font-weight:600; color:var(--ink-soft)" data-i18n="teacher_filter_lbl">শিক্ষক ফিল্টার:</label>
+        <select id="teacherHighlightFilter">
+          <option value="all">সকল শিক্ষক</option>
+        </select>
+      </div>
+      <div class="rt-legend">
+        <span><i class="swatch" style="background:var(--amber-tint); box-shadow:inset 0 0 0 1px var(--amber)"></i><span data-i18n="leg_relig">ধর্ম (সমান্তরাল)</span></span>
+        <span><i class="swatch" style="background:var(--red-tint); box-shadow:inset 0 0 0 1px var(--red)"></i><span data-i18n="leg_conflict">দ্বন্দ্ব</span></span>
+        <span><i class="swatch" style="background:var(--surface); box-shadow:inset 0 0 0 1px var(--line-strong)"></i><span data-i18n="leg_empty">খালি ঘর</span></span>
+        <span><i class="swatch" style="background:rgba(217, 119, 6, 0.25); box-shadow:inset 0 0 0 1px #f59e0b"></i><span data-i18n="leg_needs_teacher">শিক্ষক প্রয়োজন</span></span>
+      </div>
+    </div>
+    <div id="routineArea"></div>
+  </section>
+
+  <!-- ===================== DASHBOARD ===================== -->
+  <section class="panel admin-only" id="panel-dashboard">
+    <div class="page-head">
+      <div class="eyebrow" data-i18n="p4_eyebrow">ধাপ ৪ — ভারসাম্য</div>
+      <h2 data-i18n="p4_title">সবার ভার সমান কিনা যাচাই</h2>
+      <p>এখানে দেখা যাবে কোন শিক্ষকের সপ্তাহে কয়টি ক্লাস, কোন শাখা পুরোপুরি ভরেছে, আর কোথাও দ্বন্দ্ব আছে কিনা। ভার খুব বেশি বা খুব কম হলে সেটা রঙে বোঝা যাবে।</p>
+    </div>
+    <div class="dash-grid">
+      <div class="card card-pad dash-card">
+        <h3><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 3v18h18M18 17V9M13 17V5M8 17v-3"/></svg>শিক্ষকভিত্তিক সাপ্তাহিক ক্লাস</h3>
+        <div class="hint">সবুজ = ভারসাম্যপূর্ণ · হলুদ = বেশি · লাল = ২৪-এর বেশি (সম্ভব নয়)</div>
+        <div id="loadChart"></div>
+      </div>
+      <div style="display:grid; gap:20px">
+        <div class="card card-pad dash-card">
+          <h3><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 3v18M3 9h6"/></svg>শাখাভিত্তিক পূর্ণতা</h3>
+          <div class="hint">প্রতিটি শাখায় ৩০টি ঘরের কয়টি ভরেছে</div>
+          <div class="sec-fill" id="fillChart"></div>
+        </div>
+        <div class="card card-pad dash-card">
+          <h3><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 9v4M12 17h.01M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/></svg>দ্বন্দ্ব তালিকা</h3>
+          <div class="hint">একই সময়ে একজন শিক্ষক দুই শাখায়</div>
+          <div class="conflict-list" id="conflictList"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div><strong>রুটিন নির্মাতা</strong><span>পল্লী উন্নয়ন একাডেমি ল্যাবরেটরি স্কুল এন্ড কলেজ, বগুড়া</span></div>
+  <div class="footer-links"><a href="https://rdalsc.edu.bd/" target="_blank" rel="noreferrer">স্কুলের অফিসিয়াল ওয়েবসাইট ↗</a><a href="/manual">ব্যবহার নির্দেশিকা</a></div>
+  <p>Developed by MD.Shahria Nafis <span aria-hidden="true">·</span> All rights reserved</p>
+</footer>
+
+<!-- print target -->
+<div id="printArea"></div>
+
+<!-- cell editor -->
+<div class="editor-back" id="editorBack">
+  <div class="editor">
+    <div class="editor-head">
+      <h3 id="edTitle">ঘর সম্পাদনা</h3>
+      <button class="btn ghost x small" id="edClose">✕</button>
+    </div>
+    <div class="editor-body">
+      <div class="conflict-hint" id="edConflict"></div>
+    <div id="edViewerNotice" class="viewer-readonly-notice" style="display:none; margin-bottom:10px">
+      👁️ <b data-i18n="viewer_ed_notice_title">শিক্ষক মোড:</b> <span data-i18n="viewer_ed_notice_desc">আপনি কেবল দেখতে পারবেন। কোনো তথ্য সংরক্ষণ বা মুছে ফেলা যাবে না।</span>
+    </div>
+      <div class="fld">
+        <label>বিষয়</label>
+        <select id="edSubject"></select>
+      </div>
+      <div class="fld">
+        <label>শিক্ষক</label>
+        <button type="button" class="teacher-pick none" id="edTeacher" data-code="">— শিক্ষক নেই —</button>
+      </div>
+      <div class="fld" id="edTeacher2Wrap" style="display:none">
+        <label>দ্বিতীয় শিক্ষক (হিন্দু ধর্ম — সমান্তরাল)</label>
+        <button type="button" class="teacher-pick none" id="edTeacher2" data-code="">— শিক্ষক নেই —</button>
+      </div>
+    </div>
+    <div class="editor-foot">
+      <button class="btn danger" id="edClear">ঘর খালি করুন</button>
+      <button class="btn primary" id="edSave">সংরক্ষণ</button>
+    </div>
+  </div>
+</div>
+
+<!-- searchable teacher picker -->
+<div class="editor-back" id="pickerBack">
+  <div class="editor">
+    <div class="editor-head">
+      <h3>শিক্ষক নির্বাচন</h3>
+      <button class="btn ghost x small" id="pkClose">✕</button>
+    </div>
+    <div class="editor-body" style="padding-top:14px">
+      <input type="text" id="pkSearch" placeholder="নাম বা কোড লিখে খুঁজুন…" autocomplete="off" />
+      <div id="pkList" style="max-height:340px; overflow-y:auto; margin-top:12px"></div>
+    </div>
+  </div>
+</div>
+
+<!-- authentication modal -->
+<div class="editor-back" id="authModal">
+  <div class="editor" style="max-width:380px">
+    <div class="editor-head">
+      <h3 id="authModalTitle">ব্যবহারকারী লগইন</h3>
+      <button class="btn ghost x small" id="authClose">✕</button>
+    </div>
+    <div class="editor-body">
+      <form id="authForm" onsubmit="return false;">
+        <div class="fld">
+          <label data-i18n="profile_label">প্রোফাইল</label>
+          <input type="text" id="loginUsername" data-i18n-ph="profile_placeholder" placeholder="admin অথবা teacher বেছে নিন" autocomplete="off" required />
+        </div>
+        <div id="authError" style="color:var(--red-d); font-size:12.5px; margin-bottom:12px; display:none"></div>
+      <div id="authRoleHint" data-i18n="auth_local_note" style="font-size:11.5px; background:var(--surface-2); border:1px solid var(--line); border-radius:var(--r-sm); padding:10px 12px; margin-bottom:14px; line-height:1.5; color:var(--ink-soft)">
+        এই মোড শুধু এই ব্রাউজারে সম্পাদনা বা দেখার সুবিধা ঠিক করে। এটি পাসওয়ার্ড সুরক্ষা বা আলাদা ব্যবহারকারী অ্যাকাউন্ট নয়।
+      </div>
+        <div style="display:flex; gap:8px; margin-bottom:14px">
+          <button type="button" class="btn small" onclick="quickLogin('admin')" style="flex:1; justify-content:center; font-size:12px; background:rgba(34,197,94,0.12); color:var(--green-d); border-color:#86efac" data-i18n="profile_admin">✏️ প্রশাসক মোড</button>
+          <button type="button" class="btn small" onclick="quickLogin('teacher')" style="flex:1; justify-content:center; font-size:12px; background:rgba(59,130,246,0.12); color:var(--blue); border-color:#93c5fd" data-i18n="profile_teacher">👨‍🏫 শিক্ষক মোড</button>
+        </div>
+        <div style="display:flex; justify-content:flex-end; gap:8px">
+          <button type="button" class="btn ghost" id="authCancel">বাতিল</button>
+          <button type="submit" class="btn primary" id="authSubmit" data-i18n="profile_continue">চালু করুন</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+<!-- PDF & Print modal -->
+<div class="editor-back" id="pdfModal">
+  <div class="editor" style="max-width:480px">
+    <div class="editor-head">
+      <h3 style="display:flex; align-items:center; gap:8px;">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v8H6z"/></svg>
+        <span data-i18n="pdf_modal_title">রুটিন প্রিন্ট ও PDF ডাউনলোড</span>
+      </h3>
+      <button class="btn ghost x small" id="pdfClose">✕</button>
+    </div>
+    <div class="editor-body">
+      <div style="font-size:13.5px; color:var(--ink-soft); margin-bottom:12px;" data-i18n="pdf_modal_desc">
+        আপনি সম্পূর্ণ রুটিন অথবা ফিল্টার করা নির্দিষ্ট শ্রেণির রুটিন PDF হিসেবে সেভ বা সরাসরি প্রিন্ট করতে পারেন:
+      </div>
+      
+      <div style="background:var(--surface-2); border:1px solid var(--line); border-radius:var(--r-sm); padding:12px; margin-bottom:14px;">
+        <label style="font-weight:600; font-size:13px; display:block; margin-bottom:8px; color:var(--ink)" data-i18n="pdf_scope_title">কী প্রিন্ট করতে চান?</label>
+        <div style="display:grid; gap:8px; font-size:13px;">
+          <label style="display:flex; align-items:center; gap:8px; cursor:pointer;">
+            <input type="radio" name="pdfScope" value="all" checked />
+            <span data-i18n="pdf_scope_all"><b>সব শাখা (২২টি পৃষ্ঠা)</b> — সম্পূর্ণ বিদ্যালয়ের রুটিন</span>
+          </label>
+          <label style="display:flex; align-items:center; gap:8px; cursor:pointer;">
+            <input type="radio" name="pdfScope" value="filtered" />
+            <span data-i18n="pdf_scope_filtered"><b>বর্তমান ফিল্টার করা শাখা</b> — (রুটিন পেজে প্রদর্শিত তালিকা)</span>
+          </label>
+        </div>
+      </div>
+
+      <div style="background:#e8f4fd; border:1px solid #b6e0fe; border-radius:var(--r-sm); padding:10px 12px; font-size:12.5px; color:#0c5460; line-height:1.5; margin-bottom:16px;">
+        💡 <b>PDF ফাইল সেভ করার সহজ নিয়ম:</b><br>
+        ১. নিচে <b>"প্রিন্ট / Save as PDF শুরু করুন"</b> বাটনে চাপ দিন।<br>
+        ২. প্রিন্ট ডায়ালগে <b>Destination</b> অপশনে <b>"Save as PDF"</b> বেছে নিন।<br>
+        ৩. <b>"Save"</b> বাটনে চাপলে ফাইলটি আপনার কম্পিউটারের <b>Downloads</b> ফোল্ডারে (<b>E:\User\Downloads</b>) সেভ হবে।<br>
+        ৪. ডাউনলোড শেষে কীবোর্ডের <b>Windows Key + E</b> চেপে <b>Downloads</b> ফোল্ডার থেকে ফাইলটি খুলুন।
+      </div>
+
+      <div style="display:flex; flex-direction:column; gap:8px;">
+        <button type="button" class="btn primary" id="pdfDoPrint" style="justify-content:center; padding:10px; font-weight:600;">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v8H6z"/></svg>
+          <span data-i18n="pdf_btn_print">প্রিন্ট / Save as PDF শুরু করুন</span>
+        </button>
+        <div style="display:flex; gap:8px;">
+          <button type="button" class="btn" id="pdfOpenTab" style="flex:1; justify-content:center; font-size:12px;">
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
+            <span data-i18n="pdf_btn_new_tab">নতুন ট্যাবে প্রাকদর্শন</span>
+          </button>
+          <button type="button" class="btn" id="pdfExportHtml" style="flex:1; justify-content:center; font-size:12px;">
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 8l5-5 5 5M12 3v12"/></svg>
+            <span data-i18n="pdf_btn_html">অফলাইন HTML রুটিন</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<input type="file" id="fileInput" accept="application/json" style="display:none" />
+<div class="toast" id="toast"></div>

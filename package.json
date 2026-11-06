@@ -1,0 +1,26 @@
+{
+  "name": "routine-nirmata",
+  "version": "1.0.0",
+  "description": "Local-first school timetable manager built with Next.js",
+  "scripts": {
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "keywords": [
+    "routine",
+    "timetable",
+    "school",
+    "scheduler"
+  ],
+  "author": "RDALSC",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^16.4.5",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  }
+}

@@ -1,0 +1,38 @@
+# Dependencies and generated build output
+/node_modules/
+/.next/
+/out/
+/dist/
+/.vercel/
+/.turbo/
+/coverage/
+/test-results/
+/playwright-report/
+/next-env.d.ts
+*.tsbuildinfo
+*.log
+*.pid
+.DS_Store
+
+# Local environment files; keep only the safe template
+.env*
+!.env.example
+
+# Local databases, WAL files, and backups
+/data/
+/backups/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+*.sqlite3-*
+
+# Bundled local runtime and generated Next.js guidance
+/bin/
+/AGENTS.md
+
+# Archived pre-Next.js implementation (not used by the Vercel app)
+/server/
+/frontend/
+/routine-nirmata.html
